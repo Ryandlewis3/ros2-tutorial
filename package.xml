@@ -3,7 +3,7 @@
 <package format="3">
   <name>my_package</name>
   <version>0.0.0</version>
-  <description>Beginner client libraries tutorials practice package</description>
+  <description>I edited this description</description>
   <maintainer email="lewis3rd@todo.todo">lewis3rd</maintainer>
   <license>Apache Lisense 2.0</license>
 
